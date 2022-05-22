@@ -1,0 +1,51 @@
+.card-largura{
+  max-width: 18rem;
+}
+
+
+.imagem-carrossel-um {
+  object-fit: cover;
+  object-position: 0 80%;
+  height: 400px;
+}
+
+.imagem-carrossel-dois {
+  object-fit: cover;
+  /*object-position: 0 80%;*/
+  height: 400px;
+}
+
+.font-pacifico {
+  font-family: 'Pacifico', cursive;
+}
+
+.cor-especial {
+  color: darkred;
+}
+
+.botao-card {
+  background-color: darkred;
+  color: white;
+}
+
+.botao-card:hover{
+  background-color: red;
+  color: white;
+}
+
+.borda-card {
+  border-color: darkred;
+}
+
+.posicao-img-card{
+  object-fit: cover;
+  /* object-position: 0 80%; */
+  height: 200px;
+}
+
+/* .container{
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+} */
